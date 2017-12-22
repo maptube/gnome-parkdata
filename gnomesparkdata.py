@@ -155,7 +155,9 @@ def countIndividuals(infile):
 
 def main():
     #infilename = "C:\\Users\\richard\\Desktop\\Gnomes\\SIGCHI\\gnome-data\\conversations.csv"
-    infilename = "C:\\Users\\richard\\Desktop\\SIGCHI\\gnomes-data\\20170911_conversations\\conversations_sep.csv"
+    #infilename = "C:\\Users\\richard\\Desktop\\SIGCHI\\gnomes-data\\20170911_conversations\\conversations_sep.csv"
+    #infilename = "C:\\Users\\richard\\Desktop\\SIGCHI\\gnomes-data\\20170918_conversations\\conversations_sep.csv"
+    infilename = "C:\\Users\\richard\\Desktop\\gnomes-data\\20171101_conversations\\conversations_sep.csv"
     countIndividuals(infilename)
     #countTotals(infilename)
 
